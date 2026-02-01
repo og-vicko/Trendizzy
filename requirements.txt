@@ -1,0 +1,7 @@
+trendspy
+praw
+python-dotenv
+pyyaml
+loguru
+# urllib3
+# ==1.25.11
