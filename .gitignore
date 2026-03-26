@@ -33,7 +33,7 @@ MANIFEST
 *.spec
 
 #data files
-.data/
+.data/raw
 
 # Installer logs
 pip-log.txt

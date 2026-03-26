@@ -14,7 +14,7 @@ class GoogleTrendsIngestor:
         self.trends = Trends()
 
     def rank_and_score(self, trends):
-            """
+            """ 
             Rank and score the trends based on SearchCount
             Rank: This is assigned based on the SearchCount in ascending order
             Score: This is calculated as the ratio of SearchCount to the maximum SearchCount in the list, 
