@@ -1,183 +1,103 @@
 [
   {
-    "SearchTerm": "arsenal vs chelsea",
-    "SearchCount": 500000,
+    "SearchTerm": "england football",
+    "SearchCount": 200000,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
     "Rank": 1,
     "Score": 1.0
   },
   {
-    "SearchTerm": "weather tomorrow",
+    "SearchTerm": "tiger woods",
     "SearchCount": 100000,
-    "Topic": 20,
+    "Topic": 11,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
     "Rank": 2,
-    "Score": 0.2
+    "Score": 0.5
   },
   {
-    "SearchTerm": "2026 winter olympics",
+    "SearchTerm": "roy hodgson",
     "SearchCount": 50000,
-    "Topic": 4,
+    "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
     "Rank": 3,
-    "Score": 0.1
+    "Score": 0.25
   },
   {
-    "SearchTerm": "st. mirren vs hearts",
-    "SearchCount": 50000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 4,
-    "Score": 0.1
-  },
-  {
-    "SearchTerm": "england vs sri lanka",
-    "SearchCount": 50000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 5,
-    "Score": 0.1
-  },
-  {
-    "SearchTerm": "albacete vs barcelona",
-    "SearchCount": 20000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 6,
-    "Score": 0.04
-  },
-  {
-    "SearchTerm": "chatgpt outage",
+    "SearchTerm": "ps5",
     "SearchCount": 20000,
     "Topic": 18,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 7,
-    "Score": 0.04
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 4,
+    "Score": 0.1
   },
   {
-    "SearchTerm": "sheffield united vs oxford utd",
-    "SearchCount": 20000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 8,
-    "Score": 0.04
-  },
-  {
-    "SearchTerm": "blackburn rovers vs sheffield wednesday",
-    "SearchCount": 20000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 9,
-    "Score": 0.04
-  },
-  {
-    "SearchTerm": "met office weather forecast snow uk",
-    "SearchCount": 20000,
-    "Topic": 20,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 10,
-    "Score": 0.04
-  },
-  {
-    "SearchTerm": "itv",
+    "SearchTerm": "beyond paradise",
     "SearchCount": 20000,
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 11,
-    "Score": 0.04
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 5,
+    "Score": 0.1
   },
   {
-    "SearchTerm": "fallout countdown",
-    "SearchCount": 10000,
-    "Topic": 6,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 12,
-    "Score": 0.02
-  },
-  {
-    "SearchTerm": "marseille vs rennes",
-    "SearchCount": 10000,
+    "SearchTerm": "roy keane",
+    "SearchCount": 20000,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 13,
-    "Score": 0.02
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 6,
+    "Score": 0.1
   },
   {
-    "SearchTerm": "hull city vs watford",
+    "SearchTerm": "danielle scott haughton",
     "SearchCount": 10000,
-    "Topic": 17,
+    "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 14,
-    "Score": 0.02
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 7,
+    "Score": 0.05
   },
   {
-    "SearchTerm": "portsmouth vs ipswich town",
-    "SearchCount": 10000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 15,
-    "Score": 0.02
-  },
-  {
-    "SearchTerm": "cirrus sr20",
+    "SearchTerm": "sauvignon blanc fly tipper",
     "SearchCount": 10000,
     "Topic": 11,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 16,
-    "Score": 0.02
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 8,
+    "Score": 0.05
   },
   {
-    "SearchTerm": "china star wars space carrier",
+    "SearchTerm": "raye",
     "SearchCount": 10000,
-    "Topic": 3,
+    "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 17,
-    "Score": 0.02
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 9,
+    "Score": 0.05
   },
   {
-    "SearchTerm": "liam rosenior",
+    "SearchTerm": "james garner",
     "SearchCount": 10000,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 18,
-    "Score": 0.02
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 10,
+    "Score": 0.05
   },
   {
     "SearchTerm": "itvx",
@@ -185,1909 +105,1629 @@
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 19,
-    "Score": 0.02
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 11,
+    "Score": 0.05
   },
   {
-    "SearchTerm": "ron kenoly",
-    "SearchCount": 5000,
+    "SearchTerm": "itv coronation street",
+    "SearchCount": 10000,
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 20,
-    "Score": 0.01
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 12,
+    "Score": 0.05
   },
   {
-    "SearchTerm": "bologna vs milan",
+    "SearchTerm": "mary rand",
     "SearchCount": 5000,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 21,
-    "Score": 0.01
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 13,
+    "Score": 0.025
   },
   {
-    "SearchTerm": "coronation street jim mcdonald",
+    "SearchTerm": "lisa kudrow",
     "SearchCount": 5000,
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 22,
-    "Score": 0.01
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 14,
+    "Score": 0.025
   },
   {
-    "SearchTerm": "morgan mcsweeney",
-    "SearchCount": 5000,
-    "Topic": 14,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 23,
-    "Score": 0.01
-  },
-  {
-    "SearchTerm": "prince edward",
-    "SearchCount": 5000,
-    "Topic": 10,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 24,
-    "Score": 0.01
-  },
-  {
-    "SearchTerm": "barnsley vs northampton town",
-    "SearchCount": 5000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 25,
-    "Score": 0.01
-  },
-  {
-    "SearchTerm": "michelin awarded restaurant closes",
-    "SearchCount": 5000,
-    "Topic": 5,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 26,
-    "Score": 0.01
-  },
-  {
-    "SearchTerm": "bristol rovers vs walsall",
-    "SearchCount": 5000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 27,
-    "Score": 0.01
-  },
-  {
-    "SearchTerm": "silent witness 2026",
-    "SearchCount": 5000,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 28,
-    "Score": 0.01
-  },
-  {
-    "SearchTerm": "ai",
+    "SearchTerm": "asda petrol prices",
     "SearchCount": 5000,
     "Topic": 3,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 29,
-    "Score": 0.01
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 15,
+    "Score": 0.025
   },
   {
-    "SearchTerm": "tecartus nhs watchdog decision",
+    "SearchTerm": "kash patel",
     "SearchCount": 5000,
-    "Topic": 7,
+    "Topic": 10,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 30,
-    "Score": 0.01
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 16,
+    "Score": 0.025
   },
   {
-    "SearchTerm": "port vale vs afc wimbledon",
+    "SearchTerm": "germany",
     "SearchCount": 5000,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 31,
-    "Score": 0.01
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 17,
+    "Score": 0.025
   },
   {
-    "SearchTerm": "mcdonald's menu",
+    "SearchTerm": "spain vs serbia",
     "SearchCount": 5000,
-    "Topic": 5,
+    "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 32,
-    "Score": 0.01
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 18,
+    "Score": 0.025
   },
   {
-    "SearchTerm": "mcdonalds friends meal",
+    "SearchTerm": "partick thistle vs ross county",
     "SearchCount": 5000,
-    "Topic": 5,
+    "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 33,
-    "Score": 0.01
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 19,
+    "Score": 0.025
   },
   {
-    "SearchTerm": "car tax changes 2026",
+    "SearchTerm": "ipl",
     "SearchCount": 5000,
-    "Topic": 1,
+    "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 34,
-    "Score": 0.01
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 20,
+    "Score": 0.025
   },
   {
-    "SearchTerm": "fallout",
-    "SearchCount": 2000,
+    "SearchTerm": "emma hayes",
+    "SearchCount": 5000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 21,
+    "Score": 0.025
+  },
+  {
+    "SearchTerm": "something bad about to happen",
+    "SearchCount": 5000,
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 35,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 22,
+    "Score": 0.025
   },
   {
-    "SearchTerm": "marsh farm sandringham",
-    "SearchCount": 2000,
+    "SearchTerm": "they will kill you",
+    "SearchCount": 5000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 23,
+    "Score": 0.025
+  },
+  {
+    "SearchTerm": "hull kr vs saints",
+    "SearchCount": 5000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 24,
+    "Score": 0.025
+  },
+  {
+    "SearchTerm": "bielsa",
+    "SearchCount": 5000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 25,
+    "Score": 0.025
+  },
+  {
+    "SearchTerm": "england u21",
+    "SearchCount": 5000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 26,
+    "Score": 0.025
+  },
+  {
+    "SearchTerm": "rashford",
+    "SearchCount": 5000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 27,
+    "Score": 0.025
+  },
+  {
+    "SearchTerm": "james trafford",
+    "SearchCount": 5000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 28,
+    "Score": 0.025
+  },
+  {
+    "SearchTerm": "death in paradise cast",
+    "SearchCount": 5000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 29,
+    "Score": 0.025
+  },
+  {
+    "SearchTerm": "benefit cheat caught ziplining",
+    "SearchCount": 5000,
     "Topic": 10,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 36,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 30,
+    "Score": 0.025
   },
   {
-    "SearchTerm": "grand theft auto vi",
-    "SearchCount": 2000,
+    "SearchTerm": "livramento",
+    "SearchCount": 5000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 31,
+    "Score": 0.025
+  },
+  {
+    "SearchTerm": "jordan henderson",
+    "SearchCount": 5000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 32,
+    "Score": 0.025
+  },
+  {
+    "SearchTerm": "calvert lewin",
+    "SearchCount": 5000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 33,
+    "Score": 0.025
+  },
+  {
+    "SearchTerm": "england kit",
+    "SearchCount": 5000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 34,
+    "Score": 0.025
+  },
+  {
+    "SearchTerm": "perfect order card list",
+    "SearchCount": 5000,
     "Topic": 6,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 37,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 35,
+    "Score": 0.025
   },
   {
-    "SearchTerm": "brandon williams",
-    "SearchCount": 2000,
-    "Topic": 17,
+    "SearchTerm": "lapland manchester",
+    "SearchCount": 5000,
+    "Topic": 19,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 38,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 36,
+    "Score": 0.025
   },
   {
-    "SearchTerm": "lindsey vonn",
-    "SearchCount": 2000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 39,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "melinda gates",
-    "SearchCount": 2000,
-    "Topic": 11,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 40,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "notts county vs gillingham",
-    "SearchCount": 2000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 41,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "burton vs doncaster",
-    "SearchCount": 2000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 42,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "leverkusen vs st. pauli",
-    "SearchCount": 2000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 43,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "the drama",
+    "SearchTerm": "billy idol",
     "SearchCount": 2000,
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 44,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 37,
+    "Score": 0.01
   },
   {
-    "SearchTerm": "jeffrey epstein files",
+    "SearchTerm": "jamie dornan",
     "SearchCount": 2000,
-    "Topic": 10,
+    "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 45,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 38,
+    "Score": 0.01
   },
   {
-    "SearchTerm": "chat gpt down",
+    "SearchTerm": "jimmy carr",
+    "SearchCount": 2000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 39,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "germany fc",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 40,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "morocco vs ecuador",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 41,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "vanessa trump",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 42,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "ugarte",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 43,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "madueke",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 44,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "eddie hall",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 45,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "sam campbell",
+    "SearchCount": 2000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 46,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "lee sang bo",
+    "SearchCount": 2000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 47,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "glen powell",
+    "SearchCount": 2000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 48,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "artemis rocket launch",
     "SearchCount": 2000,
     "Topic": 3,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 46,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 49,
+    "Score": 0.01
   },
   {
-    "SearchTerm": "chelsea manager",
+    "SearchTerm": "caroline kennedy",
+    "SearchCount": 2000,
+    "Topic": 10,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 50,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "shamyl hussain",
     "SearchCount": 2000,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 47,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 51,
+    "Score": 0.01
   },
   {
-    "SearchTerm": "harrogate town vs swindon town",
+    "SearchTerm": "alex cropley",
     "SearchCount": 2000,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 48,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 52,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "darwin nunez",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 53,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "marcelo bielsa",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 54,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "tomori",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 55,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "ben white controversy",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 56,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "netherlands vs norway",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 57,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "adam wharton",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 58,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "international space station",
+    "SearchCount": 2000,
+    "Topic": 3,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 59,
+    "Score": 0.01
   },
   {
     "SearchTerm": "itv player",
     "SearchCount": 2000,
-    "Topic": 14,
+    "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 49,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 60,
+    "Score": 0.01
   },
   {
-    "SearchTerm": "reece james",
+    "SearchTerm": "york knights vs trinity",
     "SearchCount": 2000,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 50,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 61,
+    "Score": 0.01
   },
   {
-    "SearchTerm": "nancy guthrie",
+    "SearchTerm": "england world cup group",
     "SearchCount": 2000,
-    "Topic": 11,
+    "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 51,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 62,
+    "Score": 0.01
   },
   {
-    "SearchTerm": "james arthur",
+    "SearchTerm": "austria vs ghana",
     "SearchCount": 2000,
-    "Topic": 4,
+    "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 52,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 63,
+    "Score": 0.01
   },
   {
-    "SearchTerm": "anya taylor-joy",
+    "SearchTerm": "man city points deduction",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 64,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "barron trump",
     "SearchCount": 2000,
     "Topic": 10,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 53,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 65,
+    "Score": 0.01
   },
   {
-    "SearchTerm": "santander mortgages",
-    "SearchCount": 2000,
-    "Topic": 3,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 54,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "china bans hidden door handles",
-    "SearchCount": 2000,
-    "Topic": 1,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 55,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "uae vs nepal",
+    "SearchTerm": "alan shearer",
     "SearchCount": 2000,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 56,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 66,
+    "Score": 0.01
   },
   {
-    "SearchTerm": "kepa arrizabalaga",
+    "SearchTerm": "saudi arabia vs egypt",
     "SearchCount": 2000,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 57,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 67,
+    "Score": 0.01
   },
   {
-    "SearchTerm": "odegaard",
+    "SearchTerm": "harry kane",
     "SearchCount": 2000,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 58,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 68,
+    "Score": 0.01
   },
   {
-    "SearchTerm": "lucy letby",
+    "SearchTerm": "england world cup fixtures 2026",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 69,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "ben miles",
     "SearchCount": 2000,
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 59,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 70,
+    "Score": 0.01
   },
   {
-    "SearchTerm": "claude",
+    "SearchTerm": "leeds festival 2026",
     "SearchCount": 2000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 71,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "karachi kings vs quetta gladiators",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 72,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "children screen time",
+    "SearchCount": 2000,
+    "Topic": 11,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 73,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "extraordinary portraits",
+    "SearchCount": 2000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 74,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "new caledonia vs jamaica",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 75,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "sara pascoe",
+    "SearchCount": 2000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 76,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "aryna sabalenka",
+    "SearchCount": 2000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 77,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "ticketmaster",
+    "SearchCount": 2000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 78,
+    "Score": 0.01
+  },
+  {
+    "SearchTerm": "argentina vs mauritania",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 79,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "argentina",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 80,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "carney chukwuemeka",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 81,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "mardaani 3",
+    "SearchCount": 1000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 82,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "celine dion",
+    "SearchCount": 1000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 83,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "superman 2025",
+    "SearchCount": 1000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 84,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "venezuela fury",
+    "SearchCount": 1000,
+    "Topic": 11,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 85,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "netherlands",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 86,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "jiri lehecka",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 87,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "itauma vs franklin",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 88,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "raith rovers vs ayr",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 89,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "britney spears",
+    "SearchCount": 1000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 90,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "ian wright",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 91,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "muslera",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 92,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "glasgow warriors vs benetton",
+    "SearchCount": 1000,
+    "Topic": 11,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 93,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "cole palmer",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 94,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "glasgow warriors",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 95,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "diane morgan",
+    "SearchCount": 1000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 96,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "dominic solanke",
+    "SearchCount": 1000,
+    "Topic": 11,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 97,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "guyana vs dominica",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 98,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "inverness ct vs queen of the south",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 99,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "leinster vs scarlets",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 100,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "jarrod bowen",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 101,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "greece vs paraguay",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 102,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "exeter chiefs",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 103,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "jude bellingham",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 104,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "marco rubio",
+    "SearchCount": 1000,
+    "Topic": 14,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 105,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "tiffany",
+    "SearchCount": 1000,
+    "Topic": 10,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 106,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "arthur fils",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 107,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "nathan redmond",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 108,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "cdl",
+    "SearchCount": 1000,
+    "Topic": 10,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 109,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "sharks vs cardiff rugby",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 110,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "luis suarez",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 111,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "monty don",
+    "SearchCount": 1000,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 112,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "sadiq khan",
+    "SearchCount": 1000,
+    "Topic": 14,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 113,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "pasta evangelists",
+    "SearchCount": 1000,
+    "Topic": 11,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 114,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "australia women vs west indies women",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 115,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "snow forecast uk",
+    "SearchCount": 1000,
+    "Topic": 20,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 116,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "japanese grand prix",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 117,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "reading",
+    "SearchCount": 1000,
+    "Topic": 11,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 118,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "iran vs nigeria",
+    "SearchCount": 1000,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 119,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "clocks go forward",
+    "SearchCount": 1000,
+    "Topic": 11,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 120,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "ahmad mulakhil",
+    "SearchCount": 1000,
+    "Topic": 10,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 121,
+    "Score": 0.005
+  },
+  {
+    "SearchTerm": "samsung galaxy z fold 8",
+    "SearchCount": 1000,
     "Topic": 18,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 60,
-    "Score": 0.004
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 122,
+    "Score": 0.005
   },
   {
-    "SearchTerm": "alton towers",
-    "SearchCount": 2000,
-    "Topic": 19,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 61,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "katie boulter",
-    "SearchCount": 2000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 62,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "davina mccall",
-    "SearchCount": 2000,
-    "Topic": 16,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 63,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "grok",
-    "SearchCount": 2000,
-    "Topic": 11,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 64,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "zimbabwe vs netherlands",
-    "SearchCount": 2000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 65,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "car dealership",
-    "SearchCount": 2000,
-    "Topic": 3,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 66,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "cold weather",
-    "SearchCount": 2000,
-    "Topic": 11,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 67,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "boeing 787 dreamliner",
-    "SearchCount": 2000,
-    "Topic": 3,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 68,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "rachel mcadams",
-    "SearchCount": 2000,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 69,
-    "Score": 0.004
-  },
-  {
-    "SearchTerm": "nets vs lakers",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 70,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "d",
-    "SearchCount": 1000,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 71,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "man city vs newcastle",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 72,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "jill biden",
-    "SearchCount": 1000,
-    "Topic": 10,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 73,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "hearts fixtures",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 74,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "rochdale vs boreham wood",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 75,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "kante",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 76,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "queen's park vs ross county",
-    "SearchCount": 1000,
-    "Topic": 11,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 77,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "forest green vs woking",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 78,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "altrincham vs morecambe",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 79,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "nba trades",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 80,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "amd stock",
+    "SearchTerm": "ns&i premium bonds",
     "SearchCount": 1000,
     "Topic": 3,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 81,
-    "Score": 0.002
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 123,
+    "Score": 0.005
   },
   {
-    "SearchTerm": "arbroath vs airdrieonians",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 82,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "charli xcx",
+    "SearchTerm": "bully kanye",
     "SearchCount": 1000,
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 83,
-    "Score": 0.002
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 124,
+    "Score": 0.005
   },
   {
-    "SearchTerm": "garnacho",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 84,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "arsenal f.c. games",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 85,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "madueke",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 86,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "openai",
-    "SearchCount": 1000,
-    "Topic": 3,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 87,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "celtic fixtures",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 88,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "charles ingram",
-    "SearchCount": 1000,
+    "SearchTerm": "chase infinity",
+    "SearchCount": 500,
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 89,
-    "Score": 0.002
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 125,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "estevao",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 90,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "game pass february 2026",
-    "SearchCount": 1000,
-    "Topic": 6,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 91,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "alfonso buller",
-    "SearchCount": 1000,
+    "SearchTerm": "the comeback",
+    "SearchCount": 500,
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 92,
-    "Score": 0.002
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 126,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "hermannstadt vs rapid bucure\u0219ti",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 93,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "rangers fixtures",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 94,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "benedict cumberbatch",
-    "SearchCount": 1000,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 95,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "livescore",
-    "SearchCount": 1000,
-    "Topic": 6,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 96,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "red nose day 2026",
-    "SearchCount": 1000,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 97,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "jack thorne",
-    "SearchCount": 1000,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 98,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "zoe atkin",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 99,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "miranda kerr",
-    "SearchCount": 1000,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 100,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "williams f1",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 101,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "sri lanka a vs oman",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 102,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "marius borg h\u00f8iby",
-    "SearchCount": 1000,
-    "Topic": 10,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 103,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "sarah's trust",
-    "SearchCount": 1000,
-    "Topic": 10,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 104,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "thomas rew",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 105,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "six nations 2026 fixtures",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 106,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "thames water",
-    "SearchCount": 1000,
-    "Topic": 3,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 107,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "la voix",
-    "SearchCount": 1000,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 108,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "denise van outen",
-    "SearchCount": 1000,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 109,
-    "Score": 0.002
-  },
-  {
-    "SearchTerm": "s",
+    "SearchTerm": "mark gatiss",
     "SearchCount": 500,
     "Topic": 11,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 110,
-    "Score": 0.001
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 127,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "2026 winter olympics held in which country",
-    "SearchCount": 500,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 111,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "james harden",
-    "SearchCount": 500,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 112,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "trying",
-    "SearchCount": 500,
-    "Topic": 10,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 113,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "anniversary movie",
-    "SearchCount": 500,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 114,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "steven spielberg",
-    "SearchCount": 500,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 115,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "arsenal tickets",
-    "SearchCount": 500,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 116,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "enzo fern\u00e1ndez",
-    "SearchCount": 500,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 117,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "swfc",
-    "SearchCount": 500,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 118,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "spl",
-    "SearchCount": 500,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 119,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "saif al islam",
+    "SearchTerm": "cpac",
     "SearchCount": 500,
     "Topic": 14,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 120,
-    "Score": 0.001
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 128,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "leicester news",
+    "SearchTerm": "jennifer aniston",
+    "SearchCount": 500,
+    "Topic": 2,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 129,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "clavicular",
+    "SearchCount": 500,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 130,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "jannik sinner",
+    "SearchCount": 500,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 131,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "elijah wood",
+    "SearchCount": 500,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 132,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "portugal",
+    "SearchCount": 500,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 133,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "algeria vs guatemala",
+    "SearchCount": 500,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 134,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "mike and nick and nick and alice",
+    "SearchCount": 500,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 135,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "ghana",
     "SearchCount": 500,
     "Topic": 10,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 121,
-    "Score": 0.001
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 136,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "teddy baldock",
+    "SearchTerm": "euroleague",
     "SearchCount": 500,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 122,
-    "Score": 0.001
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 137,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "hull fc",
+    "SearchTerm": "myles smith",
+    "SearchCount": 500,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 138,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "world cup winners",
     "SearchCount": 500,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 123,
-    "Score": 0.001
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 139,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "josh acheampong",
+    "SearchTerm": "are uruguay in the world cup",
     "SearchCount": 500,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 124,
-    "Score": 0.001
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 140,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "orla guerin",
-    "SearchCount": 500,
-    "Topic": 10,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 125,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "al-ettifaq vs al-taawoun",
+    "SearchTerm": "lewis hall",
     "SearchCount": 500,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 126,
-    "Score": 0.001
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 141,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "scotland vs japan",
+    "SearchCount": 500,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 142,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "john f kennedy jr",
+    "SearchCount": 500,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 143,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "england national football team players",
+    "SearchCount": 500,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 144,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "fifa world rankings",
+    "SearchCount": 500,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 145,
+    "Score": 0.003
   },
   {
     "SearchTerm": "itv1",
     "SearchCount": 500,
-    "Topic": 4,
+    "Topic": 20,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 127,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "arsena",
-    "SearchCount": 500,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 128,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "paypal stock",
-    "SearchCount": 500,
-    "Topic": 3,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 129,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "clive myrie",
-    "SearchCount": 500,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 130,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "harvey willgoose",
-    "SearchCount": 500,
-    "Topic": 10,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 131,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "trabzonspor vs fethiyespor",
-    "SearchCount": 500,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 132,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "umbria",
-    "SearchCount": 500,
-    "Topic": 3,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 133,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "hello",
-    "SearchCount": 500,
-    "Topic": 11,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 134,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "dujuan richards",
-    "SearchCount": 500,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 135,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "kelsey grammer",
-    "SearchCount": 500,
-    "Topic": 11,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 136,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "hubert hurkacz",
-    "SearchCount": 500,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 137,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "ian holloway",
-    "SearchCount": 500,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 138,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "mark wright",
-    "SearchCount": 500,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 139,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "stv",
-    "SearchCount": 500,
-    "Topic": 11,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 140,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "torcross",
-    "SearchCount": 500,
-    "Topic": 11,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 141,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "relx share price",
-    "SearchCount": 500,
-    "Topic": 3,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 142,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "lily allen",
-    "SearchCount": 500,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 143,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "belle hassan",
-    "SearchCount": 500,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 144,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "prize checker",
-    "SearchCount": 500,
-    "Topic": 3,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 145,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "p&o cruises",
-    "SearchCount": 500,
-    "Topic": 19,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
     "Rank": 146,
-    "Score": 0.001
+    "Score": 0.003
   },
   {
-    "SearchTerm": "rachel bland",
-    "SearchCount": 500,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 147,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "gen z",
-    "SearchCount": 500,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 148,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "pfas",
-    "SearchCount": 500,
-    "Topic": 11,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 149,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "jens hjerto dahl",
+    "SearchTerm": "fenerbah\u00e7e vs \u017ealgiris",
     "SearchCount": 500,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 150,
-    "Score": 0.001
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 147,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "kathy ruemmler",
+    "SearchTerm": "guyana",
     "SearchCount": 500,
-    "Topic": 10,
+    "Topic": 11,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 151,
-    "Score": 0.001
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 148,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "nifty 50",
-    "SearchCount": 500,
-    "Topic": 10,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 152,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "artemis",
-    "SearchCount": 500,
-    "Topic": 3,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 153,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "emmerdale spoilers",
+    "SearchTerm": "return to paradise",
     "SearchCount": 500,
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 154,
-    "Score": 0.001
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 149,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "strands hint",
+    "SearchTerm": "london bridge attack",
     "SearchCount": 500,
-    "Topic": 6,
+    "Topic": 11,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 155,
-    "Score": 0.001
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 150,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "indian restaurant",
+    "SearchTerm": "itv live",
+    "SearchCount": 500,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 151,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "rick stein",
     "SearchCount": 500,
     "Topic": 5,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 156,
-    "Score": 0.001
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 152,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "mel c",
+    "SearchTerm": "itv tv guide",
     "SearchCount": 500,
-    "Topic": 4,
+    "Topic": 20,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 157,
-    "Score": 0.001
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 153,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "british museum",
+    "SearchTerm": "matt goodwin",
     "SearchCount": 500,
-    "Topic": 19,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 158,
-    "Score": 0.001
-  },
-  {
-    "SearchTerm": "b",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 159,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "caf",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 160,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "ryan gosling",
-    "SearchCount": 200,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 161,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "holly valance",
-    "SearchCount": 200,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 162,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "eva dubin",
-    "SearchCount": 200,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 163,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "terence stamp",
-    "SearchCount": 200,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 164,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "martin nowak",
-    "SearchCount": 200,
-    "Topic": 11,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 165,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "hull",
-    "SearchCount": 200,
-    "Topic": 9,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 166,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "fa cup fixtures",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 167,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "spfl",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 168,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "lauren drummond",
-    "SearchCount": 200,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 169,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "zorro ranch",
-    "SearchCount": 200,
-    "Topic": 10,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 170,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "ai chat",
-    "SearchCount": 200,
-    "Topic": 7,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 171,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "carrick vs bangor",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 172,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "al-khaleej vs al qadsiah",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 173,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "torquay united",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 174,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "chessington",
-    "SearchCount": 200,
-    "Topic": 19,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 175,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "jacob devaney",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 176,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "meryl streep",
-    "SearchCount": 200,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 177,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "scooter braun",
-    "SearchCount": 200,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 178,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "u cluj vs arge\u015f pite\u015fti",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 179,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "scottish premier league",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 180,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "verdun",
-    "SearchCount": 200,
-    "Topic": 11,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 181,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "piast \u2013 lech pozna\u0144",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 182,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "msc cruises",
-    "SearchCount": 200,
-    "Topic": 19,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 183,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "chalobah",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 184,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "james milner",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 185,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "bianca censori",
-    "SearchCount": 200,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 186,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "newark",
-    "SearchCount": 200,
-    "Topic": 7,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 187,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "slow horses",
-    "SearchCount": 200,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 188,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "novo nordisk",
-    "SearchCount": 200,
-    "Topic": 3,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 189,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "celebrity cruises",
-    "SearchCount": 200,
-    "Topic": 19,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 190,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "damac vs al kholood",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 191,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "robert aramayo",
-    "SearchCount": 200,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 192,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "fpl price changes",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 193,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "sultan bin sulayem",
-    "SearchCount": 200,
-    "Topic": 10,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 194,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "euroleague",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 195,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "victoria line",
-    "SearchCount": 200,
-    "Topic": 11,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 196,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "bologna - milan",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 197,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "clippers vs 76ers",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 198,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "brass instruments",
-    "SearchCount": 200,
-    "Topic": 11,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 199,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "madagascar",
-    "SearchCount": 200,
-    "Topic": 3,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 200,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "dwight mcneil wife",
-    "SearchCount": 200,
-    "Topic": 17,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 201,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "married at first sight australia 2026",
-    "SearchCount": 200,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 202,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "hillary clinton",
-    "SearchCount": 200,
     "Topic": 14,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 203,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 154,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "richard osman",
-    "SearchCount": 200,
+    "SearchTerm": "club friendlies",
+    "SearchCount": 500,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 204,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 155,
+    "Score": 0.003
   },
   {
-    "SearchTerm": "lizzo",
+    "SearchTerm": "elvis bwomono",
+    "SearchCount": 500,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 156,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "sean dyche",
+    "SearchCount": 500,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 157,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "malcolm offord joke",
+    "SearchCount": 500,
+    "Topic": 11,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 158,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "is claude down",
+    "SearchCount": 500,
+    "Topic": 11,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 159,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "motability mileage allowance",
+    "SearchCount": 500,
+    "Topic": 3,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 160,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "iheartradio music awards taylor swift",
+    "SearchCount": 500,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 161,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "hollywood bowl",
+    "SearchCount": 500,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 162,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "phil dunster",
+    "SearchCount": 500,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 163,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "jeff brazier",
+    "SearchCount": 500,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 164,
+    "Score": 0.003
+  },
+  {
+    "SearchTerm": "james tolkan",
     "SearchCount": 200,
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 205,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 165,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "jonathan davino",
-    "SearchCount": 200,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 206,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "khaby lame",
-    "SearchCount": 200,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 207,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "\u0623\u0644\u0628\u0627\u0633\u064a\u062a\u064a \u0636\u062f \u0628\u0631\u0634\u0644\u0648\u0646\u0629",
+    "SearchTerm": "futsal",
     "SearchCount": 200,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 208,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 166,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "az alkmaar vs twente",
+    "SearchTerm": "blue jays vs athletics",
     "SearchCount": 200,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 209,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 167,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "courteney cox",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 168,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "pacers vs clippers",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 169,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "big mill leek",
+    "SearchCount": 200,
+    "Topic": 11,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 170,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "john wick",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 171,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "zverev",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 172,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "sylvester stallone",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 173,
+    "Score": 0.001
   },
   {
     "SearchTerm": "patrick dempsey",
@@ -2095,288 +1735,1168 @@
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 210,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 174,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "six nations fantasy",
+    "SearchTerm": "kaori sakamoto",
     "SearchCount": 200,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 211,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 175,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "m11 traffic",
+    "SearchTerm": "ross the boss",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 176,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "jeff dunham",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 177,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "pat kenny",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 178,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "polestar",
+    "SearchCount": 200,
+    "Topic": 1,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 179,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "adam driver",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 180,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "wirtz",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 181,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "ecuador",
+    "SearchCount": 200,
+    "Topic": 10,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 182,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "polestar 4",
+    "SearchCount": 200,
+    "Topic": 1,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 183,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "eihl",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 184,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "liverpool legends 2026",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 185,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "rachel mcadams",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 186,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "oyarzabal",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 187,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "dani dyer",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 188,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "victor munoz",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 189,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "south africa vs panama",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 190,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "bill bailey",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 191,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "huw edwards documentary",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 192,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "giants vs yankees",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 193,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "trafford",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 194,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "michael fassbender",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 195,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "emiliano mart\u00ednez",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 196,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "suede",
+    "SearchCount": 200,
+    "Topic": 16,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 197,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "gogglebox",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 198,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "kyle walker",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 199,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "willie peters",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 200,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "scotland u21",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 201,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "emma raducanu",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 202,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "mace",
+    "SearchCount": 200,
+    "Topic": 14,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 203,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "andreas dracopoulos",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 204,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "milano",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 205,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "looe",
+    "SearchCount": 200,
+    "Topic": 8,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 206,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "tvguide",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 207,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "hambleton",
+    "SearchCount": 200,
+    "Topic": 10,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 208,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "jk rowling",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 209,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "callum turner",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 210,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "finalissima",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 211,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "ipswich star",
     "SearchCount": 200,
     "Topic": 11,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
     "Rank": 212,
-    "Score": 0.0
+    "Score": 0.001
   },
   {
-    "SearchTerm": "divine mukasa",
+    "SearchTerm": "villa tv",
     "SearchCount": 200,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
     "Rank": 213,
-    "Score": 0.0
+    "Score": 0.001
   },
   {
-    "SearchTerm": "lisa marie presley",
+    "SearchTerm": "ascot",
     "SearchCount": 200,
-    "Topic": 4,
+    "Topic": 6,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
     "Rank": 214,
-    "Score": 0.0
+    "Score": 0.001
   },
   {
-    "SearchTerm": "h",
+    "SearchTerm": "elche",
     "SearchCount": 200,
-    "Topic": 10,
+    "Topic": 3,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
     "Rank": 215,
-    "Score": 0.0
+    "Score": 0.001
   },
   {
-    "SearchTerm": "s",
+    "SearchTerm": "alejandro garnacho",
     "SearchCount": 200,
-    "Topic": 4,
+    "Topic": 10,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
     "Rank": 216,
-    "Score": 0.0
+    "Score": 0.001
   },
   {
-    "SearchTerm": "ella langley",
+    "SearchTerm": "roger tuivasa-sheck",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 217,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "heathrow airport",
+    "SearchCount": 200,
+    "Topic": 3,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 218,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "jungle tickets",
     "SearchCount": 200,
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 217,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 219,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "nh",
+    "SearchTerm": "radio x",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 220,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "faith kates",
+    "SearchCount": 200,
+    "Topic": 10,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 221,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "vaux de cernay",
+    "SearchCount": 200,
+    "Topic": 11,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 222,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "bermuda",
+    "SearchCount": 200,
+    "Topic": 3,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 223,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "interland",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 224,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "lucy letby",
+    "SearchCount": 200,
+    "Topic": 10,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 225,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "gladiators live tour",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 226,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "robyn",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 227,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "which",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 228,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "hollys law",
+    "SearchCount": 200,
+    "Topic": 13,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 229,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "dodgers vs diamondbacks",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 230,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "colombia",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 231,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "midnite",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 232,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "this morning",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 233,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "naga munchetty",
+    "SearchCount": 200,
+    "Topic": 11,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 234,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "zara larsson",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 235,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "lyse doucet",
+    "SearchCount": 200,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 236,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "onet",
+    "SearchCount": 200,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 237,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "aegon",
+    "SearchCount": 200,
+    "Topic": 3,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 238,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "capital fm",
+    "SearchCount": 200,
+    "Topic": 11,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 239,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "betway",
+    "SearchCount": 200,
+    "Topic": 6,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 240,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "john wick 4",
+    "SearchCount": 100,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 241,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "celtics vs hawks",
+    "SearchCount": 100,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 242,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "israel adesanya",
+    "SearchCount": 100,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 243,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "duggar",
+    "SearchCount": 100,
+    "Topic": 11,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 244,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "peep show",
+    "SearchCount": 100,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 245,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "jedward",
+    "SearchCount": 100,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 246,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "elton john",
+    "SearchCount": 100,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 247,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "luke evans",
+    "SearchCount": 100,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 248,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "silo",
     "SearchCount": 100,
     "Topic": 10,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 218,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 249,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "post malone",
-    "SearchCount": 100,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 219,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "glentoran fc",
+    "SearchTerm": "issa diop",
     "SearchCount": 100,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 220,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 250,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "amd share price",
-    "SearchCount": 100,
-    "Topic": 3,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 221,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "steve evets",
-    "SearchCount": 100,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 222,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "peter mandelson wife",
-    "SearchCount": 100,
-    "Topic": 14,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 223,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "fa cup final",
+    "SearchTerm": "valverde real madrid",
     "SearchCount": 100,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 224,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 251,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "fratellis",
-    "SearchCount": 100,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 225,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "cfc",
+    "SearchTerm": "tyson fury next fight",
     "SearchCount": 100,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 226,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 252,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "below deck down under",
+    "SearchTerm": "magic faraway tree movie",
     "SearchCount": 100,
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 227,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 253,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "ross county",
+    "SearchTerm": "tenby",
+    "SearchCount": 100,
+    "Topic": 10,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 254,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "valathu vashathe kallan",
+    "SearchCount": 100,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 255,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "ecuador vs marruecos",
     "SearchCount": 100,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 228,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 256,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "veolia",
-    "SearchCount": 100,
-    "Topic": 3,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 229,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "deborah james",
+    "SearchTerm": "detective hole netflix",
     "SearchCount": 100,
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 230,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 257,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "margaret qualley",
-    "SearchCount": 100,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 231,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "dartmoor zoo",
-    "SearchCount": 100,
-    "Topic": 8,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 232,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "emily atack",
-    "SearchCount": 100,
-    "Topic": 4,
-    "Source": "google_trends",
-    "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 233,
-    "Score": 0.0
-  },
-  {
-    "SearchTerm": "raw results",
+    "SearchTerm": "ronald ara\u00fajo",
     "SearchCount": 100,
     "Topic": 17,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 234,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 258,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "noah kahan tour",
+    "SearchTerm": "international friendlies games",
+    "SearchCount": 100,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 259,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "zalgiris",
+    "SearchCount": 100,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 260,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "hrgovic",
+    "SearchCount": 100,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 261,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "jordan vs costa rica",
+    "SearchCount": 100,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 262,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "england vs australia",
+    "SearchCount": 100,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 263,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "jlo",
     "SearchCount": 100,
     "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 235,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 264,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "people's postcode lottery",
+    "SearchTerm": "what is hbo max",
+    "SearchCount": 100,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 265,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "vanessa feltz",
+    "SearchCount": 100,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 266,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "liverpool legends game",
+    "SearchCount": 100,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 267,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "dreamhack",
     "SearchCount": 100,
     "Topic": 6,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 236,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 268,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "m2 traffic",
+    "SearchTerm": "jac jossa",
     "SearchCount": 100,
-    "Topic": 11,
+    "Topic": 4,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 237,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 269,
+    "Score": 0.001
   },
   {
-    "SearchTerm": "edinburgh live",
+    "SearchTerm": "eva longoria",
+    "SearchCount": 100,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 270,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "aston villa vs elche",
+    "SearchCount": 100,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 271,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "rex heuermann",
     "SearchCount": 100,
     "Topic": 10,
     "Source": "google_trends",
     "Geo": "GB",
-    "FetchedAt": "2026-02-04T03:47:17.215129",
-    "Rank": 238,
-    "Score": 0.0
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 272,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "the end of oak street movie",
+    "SearchCount": 100,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 273,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "croatia vs colombia",
+    "SearchCount": 100,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 274,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "magic vs kings",
+    "SearchCount": 100,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 275,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "hang seng index",
+    "SearchCount": 100,
+    "Topic": 3,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 276,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "ella langley",
+    "SearchCount": 100,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 277,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "duran duran",
+    "SearchCount": 100,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 278,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "kick",
+    "SearchCount": 100,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 279,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "gta 6 release date",
+    "SearchCount": 100,
+    "Topic": 6,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 280,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "easter 2026",
+    "SearchCount": 100,
+    "Topic": 8,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 281,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "fox",
+    "SearchCount": 100,
+    "Topic": 14,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 282,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "billy loughnane",
+    "SearchCount": 100,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 283,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "coalville",
+    "SearchCount": 100,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 284,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "warriors vs wests tigers",
+    "SearchCount": 100,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 285,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "met weather",
+    "SearchCount": 100,
+    "Topic": 20,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 286,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "what are the mobo awards",
+    "SearchCount": 100,
+    "Topic": 4,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 287,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "twycross zoo",
+    "SearchCount": 100,
+    "Topic": 13,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 288,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "march madness",
+    "SearchCount": 100,
+    "Topic": 17,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 289,
+    "Score": 0.001
+  },
+  {
+    "SearchTerm": "vanguard",
+    "SearchCount": 100,
+    "Topic": 3,
+    "Source": "google_trends",
+    "Geo": "GB",
+    "FetchedAt": "2026-03-27T23:54:12.619586",
+    "Rank": 290,
+    "Score": 0.001
   }
 ]

@@ -8,7 +8,7 @@ from pathlib import Path
 
 
 def save_raw_data(data, filename, base_path="data/raw"):
-    Path(base_path).mkdir(parents=True, exist_ok=True)
+    Path(base_path).mkdir(parents=True, exist_ok=True) # Ensure the directory exists
     file_path = Path(base_path) / filename
 
     with open(file_path, "w", encoding="utf-8") as f:
@@ -56,7 +56,7 @@ def init_db():
     cursor.execute("""
         CREATE TABLE IF NOT EXISTS trends (
             topic_id TEXT PRIMARY KEY,
-            keyword TEXT NOT NULL,
+            keyword TEXT NOT NULL UNIQUE,  -- prevents the same keyword being inserted twice
             category TEXT,
             geo TEXT,
             status TEXT DEFAULT 'raw',
@@ -81,30 +81,50 @@ def init_db():
     conn.close()
 
 def save_google_trends_from_json(trends):
-    """Save Trends data from a list of trend dictionaries into the database."""
+    """Save trends into the database, avoiding duplicate keywords.
 
-    conn = sqlite3.connect(DB_PATH)
+    For each trend:
+    - If the keyword already exists in `trends`, reuse its topic_id
+    - If it's new, create a fresh UUID and insert it
+    - Always insert a new row into `trend_signals` (each run is a new signal)
+    """
+
+    conn = get_connection()
     cursor = conn.cursor()
 
+    new_count = 0
+    existing_count = 0
+
     for trend in trends:
-        topic_id = str(uuid.uuid4())
+        keyword = trend["SearchTerm"]
 
-        cursor.execute("""
-            INSERT OR IGNORE INTO trends
-            (topic_id, keyword, category, geo, status, created_at)
-            VALUES (?, ?, ?, ?, ?, ?)
-        """, (
-            topic_id,
-            trend["SearchTerm"],
-            trend.get("Topic"),
-            trend["Geo"],
-            "raw",
-            trend["FetchedAt"]
-        ))
+        # Check if this keyword already exists in the trends table
+        cursor.execute("SELECT topic_id FROM trends WHERE keyword = ?", (keyword,))
+        row = cursor.fetchone()
 
+        if row:
+            # Keyword exists — reuse the existing topic_id
+            topic_id = row[0]
+            existing_count += 1
+        else:
+            # New keyword — generate a fresh UUID and insert it
+            topic_id = str(uuid.uuid4())
+            cursor.execute("""
+                INSERT INTO trends (topic_id, keyword, category, geo, status, created_at)
+                VALUES (?, ?, ?, ?, ?, ?)
+            """, (
+                topic_id,
+                keyword,
+                trend.get("Topic"),
+                trend["Geo"],
+                "raw",
+                trend["FetchedAt"]
+            ))
+            new_count += 1
+
+        # Always insert a new signal row — each run is a fresh data point
         cursor.execute("""
-            INSERT INTO trend_signals
-            (topic_id, source, rank, score, raw_payload, fetched_at)
+            INSERT INTO trend_signals (topic_id, source, rank, score, raw_payload, fetched_at)
             VALUES (?, ?, ?, ?, ?, ?)
         """, (
             topic_id,
@@ -117,6 +137,8 @@ def save_google_trends_from_json(trends):
 
     conn.commit()
     conn.close()
+
+    logger.info(f"Trends saved — {new_count} new, {existing_count} already existed.")
 
 
 def get_top_trends(
@@ -137,9 +159,12 @@ def get_top_trends(
             s.score,
             s.fetched_at
         FROM trends t
-        JOIN trend_signals s ON t.topic_id = s.topic_id
-        WHERE s.source = ?
-          AND t.geo = ?
+        -- Only join the latest signal row for each trend (highest id = most recent insert)
+        JOIN trend_signals s ON s.id = (
+            SELECT MAX(id) FROM trend_signals
+            WHERE topic_id = t.topic_id AND source = ?
+        )
+        WHERE t.geo = ?
           AND s.score >= ?
         ORDER BY s.rank ASC
         LIMIT ?
