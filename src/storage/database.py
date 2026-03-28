@@ -60,7 +60,8 @@ def init_db():
             category TEXT,
             geo TEXT,
             status TEXT DEFAULT 'raw',
-            created_at TEXT
+            created_at TEXT,
+            enrichment TEXT              -- JSON blob from Claude, NULL until enriched
         )
     """)
 
@@ -153,8 +154,10 @@ def get_top_trends(
 
     cursor.execute("""
         SELECT
+            t.topic_id,
             t.keyword,
             t.geo,
+            t.enrichment,
             s.rank,
             s.score,
             s.fetched_at
@@ -175,13 +178,32 @@ def get_top_trends(
 
     return [
         {
-            "keyword": r[0],
-            "geo": r[1],
-            "rank": r[2],
-            "score": r[3],
-            "fetched_at": r[4],
+            "topic_id":   r[0],
+            "keyword":    r[1],
+            "geo":        r[2],
+            "enrichment": json.loads(r[3]) if r[3] else None,  # parse JSON back to dict, or None if not yet enriched
+            "rank":       r[4],
+            "score":      r[5],
+            "fetched_at": r[6],
         }
         for r in rows
     ]
+
+
+def save_enrichment(topic_id, enrichment):
+    """Save Claude's enrichment result for a trend back into the trends table.
+
+    enrichment is a dict — we serialise it to JSON before storing.
+    This is called once per trend, after Claude has analysed it.
+    """
+    conn = get_connection()
+    cursor = conn.cursor()
+
+    cursor.execute("""
+        UPDATE trends SET enrichment = ? WHERE topic_id = ?
+    """, (json.dumps(enrichment), topic_id))
+
+    conn.commit()
+    conn.close()
 
 

@@ -3,5 +3,6 @@ praw
 python-dotenv
 pyyaml
 loguru
+anthropic
 # urllib3
 # ==1.25.11
