@@ -28,8 +28,37 @@ Data Source → Ingestion → Storage → Filter → AI Enrichment → (coming: 
 - Will be replaced or supplemented by AI classification as source volume grows
 
 **AI Enrichment (Claude API)**
+
+Enrichment is the step that turns a raw keyword into something meaningful. A keyword like `"england football"` tells us nothing on its own — enrichment asks Claude to analyse it and return structured context that the content generation layer can act on.
+
+Each enriched trend gets:
+- **category** — what type of topic it is (sports_event, entertainment, news, celebrity, etc.)
+- **summary** — a brief explanation of why it's likely trending
+- **creator_angles** — 3 content ideas for personal social media creators chasing engagement
+- **business_angles** — 3 content ideas for brands wanting to ride the trend
+- **time_sensitivity** — how long it will stay relevant (breaking, days, weeks, evergreen)
+
+Example — input keyword: `"england football"`
+```json
+{
+  "category": "sports_event",
+  "summary": "England's national football team is trending likely due to an upcoming match or recent result generating widespread discussion.",
+  "creator_angles": [
+    "Post your score prediction before the match and react live in your stories",
+    "Create a 'best England moments' countdown video to ride the hype",
+    "Film a watchalong reaction and post the highlights to Reels or TikTok"
+  ],
+  "business_angles": [
+    "Sports retailers: promote England kits and fan merchandise with match-day urgency",
+    "Food & drink brands: run a 'match night' deal tied to kick-off time",
+    "Any brand: post an England-themed graphic with your product and a supportive caption"
+  ],
+  "time_sensitivity": "days"
+}
+```
+
+Implementation notes:
 - Uses `claude-haiku-4-5` — fast and cost-effective for classification tasks at pipeline scale
 - Enrichment is skipped for any trend already enriched in the DB — Claude is called once per keyword, ever
 - Only actionable trends (post-filter) are sent for enrichment — junk never reaches the API
-- Claude returns: category, summary, creator content angles, business content angles, time sensitivity
 - Markdown code block stripping applied to Claude responses before JSON parsing
