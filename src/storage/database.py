@@ -190,6 +190,27 @@ def get_top_trends(
     ]
 
 
+def save_selected_trends(topic_ids):
+    """Mark a list of trends as 'selected' in the trends table.
+
+    Called after select_actionable_trends() picks the best trends.
+    Updating status to 'selected' lets future steps (e.g. content generation)
+    query the DB for trends that are ready to act on.
+    """
+    conn = get_connection()
+    cursor = conn.cursor()
+
+    for topic_id in topic_ids:
+        cursor.execute("""
+            UPDATE trends SET status = 'selected' WHERE topic_id = ?
+        """, (topic_id,))
+
+    conn.commit()
+    conn.close()
+
+    logger.info(f"Marked {len(topic_ids)} trend(s) as 'selected' in DB")
+
+
 def save_enrichment(topic_id, enrichment):
     """Save Claude's enrichment result for a trend back into the trends table.
 

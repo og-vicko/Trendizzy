@@ -3,7 +3,7 @@ An AI-powered trend intelligence and content generation system. Ingests trending
 
 **Pipeline:**
 ```
-Data Source → Ingestion → Storage → Filter → AI Enrichment → (coming: Content Generation)
+Data Source → Ingestion → Storage → Filter → AI Enrichment → Selection → (coming: Content Generation)
 ```
 
 ---
@@ -62,3 +62,23 @@ Implementation notes:
 - Enrichment is skipped for any trend already enriched in the DB — Claude is called once per keyword, ever
 - Only actionable trends (post-filter) are sent for enrichment — junk never reaches the API
 - Markdown code block stripping applied to Claude responses before JSON parsing
+
+**Selection (`select_actionable_trends`)**
+
+After enrichment, not every trend is equally worth generating content for. Selection scores each enriched trend and picks the best ones to act on.
+
+Each trend gets an `actionability_score` calculated as:
+```
+actionability_score = trend_score × time_weight × category_weight
+```
+
+- **trend_score** — how strongly the keyword is trending (0.0–1.0, from Google Trends)
+- **time_weight** — urgency based on Claude's `time_sensitivity` (breaking=1.0, days=0.8, weeks=0.5, evergreen=0.3)
+- **category_weight** — content potential of the topic (entertainment/viral=1.0, politics=0.3, etc.)
+
+Trends that make the cut are marked `status = 'selected'` in the DB — ready to be picked up by the content generation step.
+
+Implementation notes:
+- Trends below `min_score=0.05` are dropped — not worth acting on
+- Results are sorted by `actionability_score` descending — best first
+- `status` is never reset between runs; content generation will filter by status + recency

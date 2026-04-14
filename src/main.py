@@ -3,6 +3,7 @@ from storage.database import *
 from processing.loader import load_trends_from_json
 from processing.filter import filter_trends
 from processing.enrichment import enrich_trends
+from processing.selection import select_actionable_trends
 from loguru import logger
 
 USE_OFFLINE_JSON = True # Set to True to load from local JSON file instead of fetching live data    
@@ -40,11 +41,19 @@ def main():
         if t.get("enrichment"):
             save_enrichment(t["topic_id"], t["enrichment"])
 
-    logger.success("Actionable Trends:")
-    for t in enriched_trends:
+    # Select the best trends to act on, ranked by actionability score
+    selected_trends = select_actionable_trends(enriched_trends)
+
+    # Persist the selection — mark chosen trends as 'selected' in the DB
+    save_selected_trends([t["topic_id"] for t in selected_trends])
+
+    logger.success("Selected Actionable Trends:")
+    for t in selected_trends:
         e = t.get("enrichment") or {}
         logger.success(
-            f"{t['rank']} | {t['keyword']} | score={t['score']} | {e.get('category', 'not enriched')} | {e.get('time_sensitivity', '')}"
+            f"[{t['actionability_score']:.2f}] {t['keyword']} | "
+            f"{e.get('category', 'unknown')} | {e.get('time_sensitivity', '')} | "
+            f"rank={t['rank']} score={t['score']}"
         )
 
     logger.success("Google Trends ingestion completed")
