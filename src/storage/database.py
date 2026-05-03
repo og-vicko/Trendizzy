@@ -81,8 +81,11 @@ def init_db():
     conn.commit()
     conn.close()
 
-def save_google_trends_from_json(trends):
+def save_trends(trends):
     """Save trends into the database, avoiding duplicate keywords.
+
+    Works for any source (Google Trends, Reddit, etc.) as long as each trend
+    dict has: SearchTerm, Source, Rank, Score, Geo, FetchedAt.
 
     For each trend:
     - If the keyword already exists in `trends`, reuse its topic_id
@@ -143,35 +146,65 @@ def save_google_trends_from_json(trends):
 
 
 def get_top_trends(
-    source="google_trends",
+    source=None,
     geo="GB",
-    limit=5,
+    limit=10,
     min_score=0.0
 ):
-    """Fetch top trends from the database"""
+    """Fetch top trends from the database.
+
+    If source is specified (e.g. 'google_trends', 'reddit'), only signals from
+    that source are considered and results are ordered by rank ascending.
+
+    If source is None, the latest signal per trend across ALL sources is used
+    and results are ordered by score descending — since rank isn't comparable
+    across different platforms.
+    """
     conn = get_connection()
     cursor = conn.cursor()
 
-    cursor.execute("""
-        SELECT
-            t.topic_id,
-            t.keyword,
-            t.geo,
-            t.enrichment,
-            s.rank,
-            s.score,
-            s.fetched_at
-        FROM trends t
-        -- Only join the latest signal row for each trend (highest id = most recent insert)
-        JOIN trend_signals s ON s.id = (
-            SELECT MAX(id) FROM trend_signals
-            WHERE topic_id = t.topic_id AND source = ?
-        )
-        WHERE t.geo = ?
-          AND s.score >= ?
-        ORDER BY s.rank ASC
-        LIMIT ?
-    """, (source, geo, min_score, limit))
+    if source:
+        cursor.execute("""
+            SELECT
+                t.topic_id,
+                t.keyword,
+                t.geo,
+                t.enrichment,
+                s.rank,
+                s.score,
+                s.fetched_at,
+                s.source
+            FROM trends t
+            JOIN trend_signals s ON s.id = (
+                SELECT MAX(id) FROM trend_signals
+                WHERE topic_id = t.topic_id AND source = ?
+            )
+            WHERE t.geo = ?
+              AND s.score >= ?
+            ORDER BY s.rank ASC
+            LIMIT ?
+        """, (source, geo, min_score, limit))
+    else:
+        cursor.execute("""
+            SELECT
+                t.topic_id,
+                t.keyword,
+                t.geo,
+                t.enrichment,
+                s.rank,
+                s.score,
+                s.fetched_at,
+                s.source
+            FROM trends t
+            JOIN trend_signals s ON s.id = (
+                SELECT MAX(id) FROM trend_signals
+                WHERE topic_id = t.topic_id
+            )
+            WHERE t.geo = ?
+              AND s.score >= ?
+            ORDER BY s.score DESC
+            LIMIT ?
+        """, (geo, min_score, limit))
 
     rows = cursor.fetchall()
     conn.close()
@@ -181,10 +214,11 @@ def get_top_trends(
             "topic_id":   r[0],
             "keyword":    r[1],
             "geo":        r[2],
-            "enrichment": json.loads(r[3]) if r[3] else None,  # parse JSON back to dict, or None if not yet enriched
+            "enrichment": json.loads(r[3]) if r[3] else None,
             "rank":       r[4],
             "score":      r[5],
             "fetched_at": r[6],
+            "source":     r[7],
         }
         for r in rows
     ]
